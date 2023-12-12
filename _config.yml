@@ -1,28 +1,28 @@
 # Site
-repository: sproogen/jameswgrant
+repository: Eugeniia/evgeniiagolovina
 favicon: images/favicon.ico
 
 version: 2
 
 # Personal info
-name: James Grant
-title: Full Stack Web Developer
-email: james@jameswgrant.co.uk
+name: Evgeniia Golovina, PhD
+title: Health Scientist | Data Science Enthusiast | Mentor
+email: Jn.Golovina@gmail.com
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+twitter_username: FoffaJn
+github_username:  Eugeniia
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: jnfoffa
+linkedin_username: evgolovina
 # pinterest_username:
 # youtube_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/jg2.jpg
+about_profile_image: images/eg1.jpg
 about_content: |
   Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
   I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
